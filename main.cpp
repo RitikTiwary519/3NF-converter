@@ -1,10 +1,4 @@
-#include <iostream>
-#include <sstream>
-#include <vector>
-#include <set>
-#include <map>
-#include <algorithm>
-#include <string>
+#include<bits/stdc++.h>
 
 using namespace std;
 
